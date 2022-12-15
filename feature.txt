@@ -1,1 +1,1 @@
-CONFLICTING CHANGE
+new feature file added here for conflict
