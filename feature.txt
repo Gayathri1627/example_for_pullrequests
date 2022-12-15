@@ -1,1 +1,2 @@
-new feature file added here for conflict
+Conflicting branch
+
